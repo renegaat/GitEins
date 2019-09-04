@@ -4,5 +4,6 @@ public class FahrkartenAutomat {
     //change on master
     String attribut3;
     //change on branch TICKET01
-    String attribut1;
+    String attribute1;
+    String attribute2;
 }
