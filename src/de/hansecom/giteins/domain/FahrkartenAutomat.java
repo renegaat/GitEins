@@ -6,4 +6,4 @@ public class FahrkartenAutomat {
     //change on branch TICKET01
     String attribute1;
     String attribute2;
-}
+} 
